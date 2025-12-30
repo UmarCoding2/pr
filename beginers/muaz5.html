@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css selectors</title>
+    <style>
+        *{
+            /* 1px is 96th part of an inch */
+            /* this is universal selector */
+            margin: 0px;
+            padding: 0px;
+            background: rgb(86, 86, 126);
+        }
+        /* this is class selector */
+        .box{
+            color: white;
+            background-color: purple;
+        }
+        .box1{
+            font-size: 100px;
+            text-decoration: dotted underline;
+            color: rgb(51, 190, 63);
+        }
+        /* this is id selector */
+        #para{
+            color: rgb(0, 0, 0);
+            background-color: yellow;
+        }
+    /* this is element selector*/
+        div{
+            font-size:30px;
+            /* px is 1/96th part of an inch */
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="box box1">1:-   this first person with  no brain</div>
+    <div class="box box2">2:- this second  person with  no brain</div>
+    <div class="box box3">3:- this third person with  no brain</div>
+
+    <p id="para">there are  some another person with  no brain</p>
+</body>
+</html>

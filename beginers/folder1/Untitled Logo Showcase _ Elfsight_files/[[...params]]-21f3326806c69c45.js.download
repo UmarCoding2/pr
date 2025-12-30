@@ -1,0 +1,2 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[9568],{80544:function(n,s,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/apps/[alias]/[[...params]]",function(){return t(3676)}])},3676:function(n,s,t){"use strict";t.r(s);var u=t(24246),e=t(38250),i=t(61384);let _=()=>(0,u.jsxs)(u.Fragment,{children:[(0,u.jsx)(e.dS,{title:"My Apps"}),(0,u.jsx)(i.Yv,{})]});_.config={},s.default=_}},function(n){n.O(0,[9358,2708,614,7984,1384,9774,2888,179],function(){return n(n.s=80544)}),_N_E=n.O()}]);
+//# sourceMappingURL=[[...params]]-21f3326806c69c45.js.map
